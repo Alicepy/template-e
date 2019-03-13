@@ -1,0 +1,36 @@
+{
+  "_from": "lib@^1.0.0",
+  "_id": "lib@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-ivDoUGxTyZc7iOogpGrl9TRybLFP5QM4ewQGV6DjeHyOB6iGPu35x+7pfV15w70H3IrlII7LOHBx+z0IQZ54Sg==",
+  "_location": "/lib",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "lib@^1.0.0",
+    "name": "lib",
+    "escapedName": "lib",
+    "rawSpec": "^1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://192.168.37.99:8081/repository/npm-repo-hosted/lib/-/lib-1.0.0.tgz",
+  "_shasum": "68eb3e539ff9fb43c21b7da38727c397643265e4",
+  "_spec": "lib@^1.0.0",
+  "_where": "E:\\test\\demo19\\template-d\\template",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
